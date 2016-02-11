@@ -1,0 +1,34 @@
+_repo: Tales-of-King-Arthur-and-the-Round-Table-Adapted-from-the-Book-of-Romance_49057
+contributor:
+  creator:
+    editor:
+      agent_name: Allen, J. C.
+      gutenberg_agent_id: '45114'
+      url: http://www.gutenberg.org/2009/agents/45114
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2015-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Tales of King Arthur and the Round Table Adapted from the Book of Romance
+url: http://www.gutenberg.org/ebooks/49057
