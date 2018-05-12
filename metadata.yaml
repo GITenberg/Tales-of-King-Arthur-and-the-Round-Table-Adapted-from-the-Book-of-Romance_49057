@@ -1,4 +1,5 @@
 _repo: Tales-of-King-Arthur-and-the-Round-Table-Adapted-from-the-Book-of-Romance_49057
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -12,6 +13,9 @@ contributor:
     deathdate: 1941
     gutenberg_agent_id: '26630'
     url: http://www.gutenberg.org/2009/agents/26630
+covers:
+- cover_type: archival
+  image_path: 49057-h/images/cover.jpg
 creator:
   author:
     agent_name: Lang, Andrew
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49057#Tales-of-King-Arthur-and-the-Round-Table-Adapted-from-the-Book-of-Romance
 gutenberg_issued: '2015-05-27'
 gutenberg_type: Text
 identifiers:
