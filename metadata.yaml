@@ -36,5 +36,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Tales of King Arthur and the Round Table Adapted from the Book of Romance
 url: http://www.gutenberg.org/ebooks/49057
